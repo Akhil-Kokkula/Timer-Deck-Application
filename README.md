@@ -11,7 +11,7 @@ An application designed to help with all your timer needs. Inspired from the exe
 
 ## Features
 - Create a timer set
-- Add cards within each timer set that contains infromation such as the repeat number,, and time for each exercise
+- Add cards within each timer set that contains infromation such as the repeat number, and time for each exercise
 - Play the timer set to execute the cards of the timer set 
 
 ## Screenshots
