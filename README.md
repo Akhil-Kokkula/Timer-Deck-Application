@@ -22,7 +22,7 @@ This application was created using Java in Android Studio Code. The frontend of 
 
 ## What I Learned?
 - Learned to work with a database (SQLite)
-- Understood the process of Android Development
+- Understood the process of Android Development: working with fragments, activities, and adapters
 - Overcame many challenges
   - Transitioning from timer set to screen with information of timer set
   - Populating items in Recycler View
