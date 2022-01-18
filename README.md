@@ -18,6 +18,13 @@ This application was created using Java in Android Studio Code. The frontend of 
 
 ## Screenshots
 
+![Adding a card in the timer set routine](https://github.com/Akhil-Kokkula/TimerApp/blob/main/Screen_Recording_1_AdobeCreativeCloudExpress.gif)<br/>
+Adding a card in the timer set routine<br/>
+![Creating a new timer set routine](https://github.com/Akhil-Kokkula/TimerApp/blob/main/Screen_Recording_2022-01-18_at_10_20_05_AM_2_AdobeCreativeCloudExpress.gif)<br/> 
+Creating a new timer set routine<br/>
+![Playing the timer set routine](https://github.com/Akhil-Kokkula/TimerApp/blob/main/Screen_Recording_2022-01-18_at_10_20_05_AM_3_AdobeCreativeCloudExpress.gif)<br/>
+Playing the timer set routine<br/>
+
 
 
 ## What I Learned?
